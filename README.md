@@ -1,4 +1,0 @@
-school
-======
-
-school project
